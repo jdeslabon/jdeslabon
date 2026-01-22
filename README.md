@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there! I'm John Donald Eslabon
 
-<!--
-**jdeslabon/jdeslabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- **2nd Year Computer Engineering Student** at Technological Institute of the Philippines Quezon City
+- Currently learning **Unity game development**
+- Working on expanding my programming skills through coursework and personal projects
+- Fun fact: The first time I tried coding is through HTML!
 
-Here are some ideas to get you started:
+## Tech Stack
+**Languages:** Python | C# | SQL
+**Tools & Technologies:** Git | VS Code | Unity | Windows  
+**Currently Learning:** Advanced OOP | Data Structures and Algorithm | Unity Game Development | C# Programming | Database Management System | Extended Reality  
+**Interests:** Web Development | Game Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+### Traquarium - Aquarium Management System
+*Object-Oriented Programming Course Project*
+
+**Technologies Used:** Python | OOP Design Patterns
+
+[**View Repository**](https://github.com/jdeslabon/Traquarium)
+
+## What I'm Currently Learning
+- Advanced Object-Oriented Programming concepts
+- Data Structures and Algorithms
+- Unity game development and C# scripting
+- Database Management System
+- Extended Reality
+
+## Goals for 2026
+- [ ] Complete more complex programming projects
+- [ ] Build my first complete Unity game
+- [ ] Create my first website/web application
+- [ ] Create an XR application
+- [ ] Master C# programming and database design
+- [ ] Contribute to open-source projects
+
+## Let's Connect!
+- **LinkedIn:** (https://www.linkedin.com/in/john-donald-eslabon-84606a3a8/)
+- **Email:** qjdseslabon@tip.edu.ph
+
+---
+From jeydiislabon(https://github.com/jdeslabon)
