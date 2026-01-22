@@ -7,8 +7,8 @@
 - Fun fact: The first time I tried coding is through HTML!
 
 ## Tech Stack
-**Languages:** Python | C# | SQL 
-**Tools & Technologies:** Git | VS Code | Unity | Windows  
+**Languages:** Python | C# | SQL
+**Tools & Technologies:** Git | VS Code | Unity | Windows
 **Currently Learning:** Advanced OOP | Data Structures and Algorithm | Unity Game Development | C# Programming | Database Management System | Extended Reality  
 **Interests:** Web Development | Game Development 
 
